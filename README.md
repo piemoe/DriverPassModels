@@ -14,4 +14,4 @@ One thing I feel I got wrong was sacrificing communicativeness for thoroughness.
 In user-facing systems, we need to make it easy for the user to use the system. If the users can't use the system, then the system fails as a system. In my system design, user use cases were conceived as all the possible ways users would access our site for. In the Activity Sequence, I detailed every step of registering for an account from finding our web service to finishing payment.
 
 ## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
-
+Planning always comes first. If you don't know what you're making, you're at a huge disadvantage coding in fog, like driving with no map. Know what you're coding, know what it looks like when its finished, and then start work on it.
